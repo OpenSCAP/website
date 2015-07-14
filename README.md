@@ -66,6 +66,18 @@ A new texts for OpenSCAP portal.
 + CIS benchmarks
 + SEC POD repo? http://www.scaprepo.com/
 
+### SSG Guides
++ State of the development for various guides.
++ RHEL-6 Policies
+ + DISA STIG upstream
+ + ...
++ RHEL-7 Policies
+ + DISA STIG upstream
+ + ...
++ Fedora
++ Firefox
++ JRE
+
 ## Open Development of Security Policies
 + Why collaborate?
 + How to get started?
