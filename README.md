@@ -54,7 +54,26 @@ A new texts for OpenSCAP portal.
 + XCCDF
 
 # Security Policies
++ There is huge variety of policies
++ How to choose a policy?
++ Open development of security policies
+
+## All Public SCAP Policies
++ SSG: SCAP-Security-Guide
++ DISA STIG: Secure Technical Implementation Guidelines
++ USGCB:
++ NVD database
++ CIS benchmarks
++ SEC POD repo? http://www.scaprepo.com/
+
+## Open Development of Security Policies
++ Why collaborate?
++ How to get started?
+
+## Tailoring Security Policy
++ What is it?
++ Why would you do it?
++ file format?
 
 # Tools
-
 
