@@ -77,3 +77,13 @@ A new texts for OpenSCAP portal.
 
 # Tools
 
+# Tutorials
+
+## Getting Started with OpenSCAP
++ Get oscap
++ Get SSG policy
++ Run first scan
+
+## Use SCAP Workbench for tailoring
+
+## How to run a vulnerability scan
