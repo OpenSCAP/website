@@ -108,14 +108,29 @@ A new texts for OpenSCAP portal.
 ## Related projects
 + pre-upgrade assistant
 + access insights
++ foreman integration
 
-# Tutorials
+# Resources
 
-## Getting Started with OpenSCAP
+## Support
++ How to get support for OpenSCAP projects
+
+## Solutions
+
+### Getting Started with OpenSCAP
 + Get oscap
 + Get SSG policy
 + Run first scan
 
-## Use SCAP Workbench for tailoring
+### Use SCAP Workbench for tailoring
 
-## How to run a vulnerability scan
+### How to run a vulnerability scan
+
+## Documentation
++ Mix of
+  + Chapter 'OpenSCAP' from RHEL7 Security Guide
+  + open-scap upstream docs
+
+## Videos
+
+## News and blogs
