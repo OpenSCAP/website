@@ -1,12 +1,39 @@
 A new texts for OpenSCAP portal.
 
-# Standards
+# Features
+
+## Security Compliance
++ What is it?
++ Why it gets done?
++ How to get started?
+
+## Vulnerability Assessment
++ What is it?
++ How to get started?
++ How to get OVAL definitions from vendors?
++ How OpenSCAP helps?
+  + And what about containers
+
+## For Businesses
++ Protecting business
++ PCI-DSS
++ Testimonials
+
+## For Governments
++ OpenSCAP implements mandatory requirements
++ OpenSCAP is certified
+
+## Open source
++ OpenSCAP ecosystem is 100% open source.
++ What does it mean for users?
+
+## Standards
 + Which standards?
 + Why using standards?
 + General intro into standards ecosystem, fisma act, nist, mitre
 + OpenSCAP is certified
 
-## SCAP components
+### SCAP components
 + XCCDF
 + OVAL
 + DataStream
@@ -15,20 +42,20 @@ A new texts for OpenSCAP portal.
 + CVE
 + CWE
 
-### SCE page
+#### SCE page
 + what is SCE?
   + purpose
   + use case
 + then definition:
   + http://www.open-scap.org/page/SCE
 
-## Other standards
+### Other standards
 + SACM
 + SWID
 + CC
 + FIPS
 
-## How we contribute
+### How we contribute
 + OpenSCAP team has several contributions to SCAP standard
 
 ## Acronyms
@@ -44,7 +71,7 @@ A new texts for OpenSCAP portal.
 + NIST
 + NVD
 + OVAL
-+ SCE: Sript Check Engine: SCAP extension to allow script excecution from SCAP policy.
++ SCE: Sript Check Engine: SCAP extension to allow script execution from SCAP policy.
   That might be useful during rapid policy development as scripts are easier to write
   than OVAL.
 + SDS
