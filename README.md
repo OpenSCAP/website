@@ -88,6 +88,26 @@ A new texts for OpenSCAP portal.
 + file format?
 
 # Tools
++ What open source tools do we have?
+
+## OpenSCAP base
++ Project homepage
+
+## OpenSCAP Daemon
++ Project homepage
+
+## SCAP-Workbench
++ Project homepage
+
+## SCAPtimony
++ Project homepage
+
+## OSCAP-Anaconda-Addon
++ Project homepage
+
+## Related projects
++ pre-upgrade assistant
++ access insights
 
 # Tutorials
 
