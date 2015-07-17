@@ -142,7 +142,7 @@ A new texts for OpenSCAP portal.
 ## Support
 + How to get support for OpenSCAP projects
 
-## Solutions
+## Tutorial & Videos
 
 ### Getting Started with OpenSCAP
 + Get oscap
@@ -158,6 +158,8 @@ A new texts for OpenSCAP portal.
   + Chapter 'OpenSCAP' from RHEL7 Security Guide
   + open-scap upstream docs
 
-## Videos
+## News and blogs (perhaps google plus)
 
-## News and blogs
+## Contribute
+
+## About Team
