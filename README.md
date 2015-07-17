@@ -14,6 +14,11 @@ adjustments to the security policy, periodic assessment, and risk monitoring. Op
 ecosystem provides tools and vanilla policies for quick, cost effective and flexible
 implementation of such process.
 
+Security compliance focuses mainly on proper software configuration and sofware inventory
+whereas _Vulnerability Assessment_ inspects installed software for unpatched
+vulnerabilities. With OpenSCAP organizations can implement both approaches with the same
+tooling, reducing management overhead.
+
 ## Vulnerability Assessment
 + What is it?
 + How to get started?
