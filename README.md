@@ -78,18 +78,32 @@ systems and common server applications.
 + OpenSCAP team has several contributions to SCAP standard
 
 ## Acronyms
-+ ARF
-+ CC
++ AI: Asset Identification, part of SCAP standard, a language to provide a data model
+  for identifying assets, methods for identifying assets, and guidance how to use
+  asset identification.
++ ARF: Asset Reporting Format, part of SCAP standard, a language to express the
+  transport format of information about assets, and the relationships between assets
+  and reports.
++ CC: Common Criteria
++ CCE: Common Configuration Enumeration, part of SCAP standard, an enumeration of
+  security relevant configuration elements for applications and operation systems.
++ CCSS:
 + CIS
-+ CPE
-+ CVE
++ CPE: Common Platform Enumeration, part of SCAP standard, a structured naming scheme
+  used to identify information technology systems, platforms, and packages.
++ CVE: Common Vulnerabilities and Exposures, part of SCAP standar, an enumeration
+  for publicly known information security vulnerabilities.
++ CVSS:
 + CWE
 + DataStream
 + FIPS
 + MITRE
 + NIST
 + NVD
-+ OVAL
++ OCIL: Open Checklist Interactive Language, part of SCAP standard, a language
+  providing standard way of querying a human user about the state of endpoint.
++ OVAL: Open Vulnerability and Assessment Language, part of SCAP standard, declarative
+  language for making logical assetions about the state of endpoint system.
 + SCE: Sript Check Engine: SCAP extension to allow script execution from SCAP policy.
   That might be useful during rapid policy development as scripts are easier to write
   than OVAL.
@@ -97,7 +111,10 @@ systems and common server applications.
 + SACM
 + SCAP
 + SWID
-+ XCCDF
++ TMSAD
++ XCCDF: eXtensible Configuration Checklist Description Format, part of SCAP standard,
+  a language to express, organize, and manage security policies. Basic building block
+  of security policy.
 
 # Security Policies
 + There is huge variety of policies
