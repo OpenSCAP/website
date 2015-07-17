@@ -7,6 +7,13 @@ A new texts for OpenSCAP portal.
 + Why it gets done?
 + How to get started?
 
+Security compliance is a state of computer infrastructure that is in line of a security
+policy. In ever changing world the infrastructure is never compliant with the policy
+in full. Thus, security compliance has evolved to a continuous process that includes
+adjustments to the security policy, periodic assessment, and risk monitoring. OpenSCAP
+ecosystem provides tools and vanilla policies for quick, cost effective and flexible
+implementation of such process.
+
 ## Vulnerability Assessment
 + What is it?
 + How to get started?
