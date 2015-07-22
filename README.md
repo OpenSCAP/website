@@ -84,6 +84,12 @@ Such status enables organizations to build their _Security Policy_ once, no matt
 how many security vendors do they employ.
 
 ### SCAP components
+SCAP standard family comprises of multiple component standard. The components are
+designed to work together the common goal. For each component the standard defines
+a document format with syntax and semantics of the internal data structures. All
+the component standards are based on Extensible Markup Language (XML) and each
+component standard defines its own XML namespace. Different versions of the same
+component standard (language) may also be distinguished by different XML namespace.
 + XCCDF
 + OVAL
 + DataStream
