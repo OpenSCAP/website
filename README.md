@@ -29,6 +29,7 @@ systems and common server applications.
 ## Vulnerability Assessment
 + What is it?
 + How to get started?
++ What is a zerodate?
 + How to get OVAL definitions from vendors?
 + How OpenSCAP helps?
   + And what about containers
@@ -41,6 +42,12 @@ OpenSCAP ecosystem provides tools for automated vulnerability checking.
 
 Vulnerability Assessment focuses mainly on known security defects in the installed
 software whereas _Security Compliance_ asserts for correct software configuration.
+
+The search for security defects is aided by an enumeration of publicly known
+vulnerabilities. The MITRE Corporation collaborates with software vendors and they
+maintain a list of publicly known vulnerabilities in software products. The naming
+scheme is called _CVE_ (Common Vulnerability and Exposures) and it has become widely
+known and it is accepted by a community of software vendors.
 
 ## For Businesses
 + Protecting business
