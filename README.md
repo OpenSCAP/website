@@ -33,6 +33,15 @@ systems and common server applications.
 + How OpenSCAP helps?
   + And what about containers
 
+Vulnerability Assessment is a process that identifies and classifies vulnerabilities
+on a system. There is nothing more embarrassing for a security technician when their
+systems are compromised by exploiting vulnerability that has been known for months.
+Therefore a timely inspection of software inventory is a must for todays organizations.
+OpenSCAP ecosystem provides tools for automated vulnerability checking.
+
+Vulnerability Assessment focuses mainly on known security defects in the installed
+software whereas _Security Compliance_ asserts for correct software configuration.
+
 ## For Businesses
 + Protecting business
 + PCI-DSS
