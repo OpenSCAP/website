@@ -68,6 +68,21 @@ known and it is accepted by a community of software vendors.
 + General intro into standards ecosystem, fisma act, nist, mitre
 + OpenSCAP is certified
 
+### SCAP Standard
+SCAP, pronounced “S-CAP”, is a synthesis of interoperable specifications that
+standardize the format and nomenclature by which software flaw and security
+configuration information is communicated, both to machines and humans. SCAP
+is a multi-purpose framework of specifications that supports automated configuration,
+vulnerability and patch checking, technical control compliance activities, and
+security measurement.
+
+In other words, SCAP is vendor neutral way of expressing security policy. As such
+it enjoys significant use in modern enterprises. SCAP specifications allow for
+creation of an ecosystem where the format of security content is well known and
+standardized while the implementation of scanner or policy editor is not mandated.
+Such status enables organizations to build their _Security Policy_ once, no matter
+how many security vendors do they employ.
+
 ### SCAP components
 + XCCDF
 + OVAL
