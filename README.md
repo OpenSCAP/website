@@ -90,13 +90,35 @@ a document format with syntax and semantics of the internal data structures. All
 the component standards are based on Extensible Markup Language (XML) and each
 component standard defines its own XML namespace. Different versions of the same
 component standard (language) may also be distinguished by different XML namespace.
-+ XCCDF
+
++ XCCDF (*perhaps separate page as defined below*)
 + OVAL
 + DataStream
 + ARF
 + CPE
 + CVE
 + CWE
+
+#### XCCDF
+The XCCDF acronym stands for Extensible Configuration Checklist Description Format.
+As the name suggests, the language is used to describe the security checklists. The
+language is designed to support information interchange, document generation,
+organizational and situational tailoring, automated compliance testing, and compliance
+scoring.
+
+The language contains no commands to perform the scan and it is mostly descriptive.
+Other component documents may be referred from the XCCDF, so one could come to the
+conclusion that the XCCDF binds all other component standards together. If the XCCDF
+document is written carefully, it is possible to achieve document which is portable
+among all the target platforms, and only the assessment documents (OVAL, OCIL) would
+differ.
+
+Like all the SCAP languages, the XCCDF is based on XML and defines its XML elements
+and attributes. Figure (*insert figure*) represents a simple XML DOM structure of
+XCCDF document. The XCCDF documents tend to be several hundred lines long. The
+following section describes main XCCDF elements briefly, focusing on the relation
+between them. The language specification describes all the elements in greater detail,
+and it can be consulted in the _NIST Interagency Report 7275 Revision 4_.
 
 #### SCE page
 + what is SCE?
