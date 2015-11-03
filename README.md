@@ -1,9 +1,8 @@
 # OpenSCAP Portal
 
-This is a bug tracker for new OpenSCAP Portal. At this point of time the portal
-is located at https://www-rhopenscap.rhcloud.com/
+This is a bug tracker for new OpenSCAP Portal. The portal is located at
+http://www.open-scap.org/
 
 Should you have any issue with the portal, please file it here on github.
 
 Thanks!
-
